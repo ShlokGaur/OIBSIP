@@ -1,0 +1,27 @@
+#first{
+    background-image: url(./coc\ pic\ 1.png);
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+.kk{
+    font-family: Josefin Sans;
+    ;
+}
+#navbar{
+    background-color: black;
+}
+h2{
+    font-family: Acme;
+}
+h1{
+    font-family: Poetsen One;
+}
+.slogan{
+    padding-left: 30px;
+}
+#card{
+    display: flex;
+}
+#footer{
+    background-color: black;
+}
